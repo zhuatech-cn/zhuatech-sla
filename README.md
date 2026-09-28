@@ -1,5 +1,7 @@
 # 服务等级管理系统 | zhuatech-sla
 
+[简体中文](README.md) | [English](README.en.md)
+
 面向企业服务台的知华科技 SLA 项目，由上海如静知华信息科技有限公司维护。它把服务承诺转成可核验的工单时限和超时事件，而不只是一个“工单状态”界面。官网：[www.zhuatech.cn](https://www.zhuatech.cn/)。
 
 ## 从协议到履约
